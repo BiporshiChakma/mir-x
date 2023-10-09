@@ -41,7 +41,7 @@
         </div>
         @include('components.footer')
 
-       
+        <script src="{{asset('js/axios.min.js')}}"></script>
         <script src="{{asset('js/bootstrap.bundle.min.js')}}"></script>
         
     
